@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html
+{
+    scroll-behavior: smooth;
+}
+.harry{
+                    color: darkmagenta !important;
+                    
+                    
+}
+.kunal{
+      
+
+    color: darkmagenta !important;
+   
+   
+}
+.lead{
+      color: cyan;
+      background-color: darkmagenta;
+}
+
+.sawant{
+    width: 100%;
+    height: 600px;
+}
